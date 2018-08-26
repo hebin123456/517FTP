@@ -1,0 +1,10 @@
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\bin\Debug\FTP自动连接.exe.config
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\bin\Debug\FTP自动连接.exe
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\bin\Debug\FTP自动连接.pdb
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.Form1.resources
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.Properties.Resources.resources
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.exe
+C:\Users\Jerry\Desktop\FTP自动连接\FTP自动连接\obj\Debug\FTP自动连接.pdb
