@@ -15,15 +15,35 @@ namespace FTP地址自动更新
 {
     public partial class Form1 : Form
     {
+        private int time = 30;
+
         public Form1()
         {
             InitializeComponent();
+
+            textBox1.Text = Properties.Settings.Default.time;
         }
 
         Thread thread;
 
         private void start_button_Click(object sender, EventArgs e)
         {
+            try
+            {
+                time = Int32.Parse(textBox1.Text);
+                if (time <= 0) time = 30;
+                else
+                {
+                    Properties.Settings.Default.time = time + "";
+                    Properties.Settings.Default.Save();
+                }
+            }
+            catch
+            {
+                time = 30;
+                Properties.Settings.Default.time = "30";
+                Properties.Settings.Default.Save();
+            }
             thread = new Thread(new ThreadStart(update));
             thread.Start();
             start_button.Enabled = false;
@@ -80,7 +100,7 @@ namespace FTP地址自动更新
                 string IP = GetLocalIP();
                 updateIP(IP);
                 //60s更新一次
-                Thread.Sleep(60000);
+                Thread.Sleep(time * 1000);
             }
         }
 

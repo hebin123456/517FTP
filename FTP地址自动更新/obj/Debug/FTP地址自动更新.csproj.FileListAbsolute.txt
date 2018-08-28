@@ -8,3 +8,13 @@ C:\Users\Jerry\Desktop\FTP自动连接\FTP地址自动更新\obj\Debug\FTP地址
 C:\Users\Jerry\Desktop\FTP自动连接\FTP地址自动更新\obj\Debug\FTP地址自动更新.exe
 C:\Users\Jerry\Desktop\FTP自动连接\FTP地址自动更新\obj\Debug\FTP地址自动更新.pdb
 C:\Users\Jerry\Desktop\FTP自动连接\FTP地址自动更新\obj\Debug\FTP地址自动更新.csprojAssemblyReference.cache
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\bin\Debug\FTP地址自动更新.exe.config
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\bin\Debug\FTP地址自动更新.exe
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\bin\Debug\FTP地址自动更新.pdb
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.csprojAssemblyReference.cache
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.Form1.resources
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.Properties.Resources.resources
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.csproj.GenerateResource.cache
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.exe
+C:\Users\Jerry\Documents\GitHub\517FTP\FTP地址自动更新\obj\Debug\FTP地址自动更新.pdb
